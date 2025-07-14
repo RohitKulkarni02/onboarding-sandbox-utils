@@ -1,3 +1,5 @@
-This repository is deprecated and will be sunset as part of Q3 cleanup.
+# Onboarding Sandbox Utils
 
-See issue #3 for decommissioning policy.
+This repo was used for early onboarding experiments.
+
+→ See Issue #2 for full deprecation lifecycle.
