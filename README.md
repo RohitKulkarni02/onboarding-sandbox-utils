@@ -1,4 +1,3 @@
+This repository is deprecated and will be sunset as part of Q3 cleanup.
 
-# Internal Sandbox Config Repo
-
-Configuration files and scripts for early-stage devtools setup.
+See issue #3 for decommissioning policy.
